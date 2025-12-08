@@ -44,7 +44,7 @@ This project is a full-stack task management application built using **React, Ty
 
 1. Clone the repository:
    ```sh
-  https://github.com/SagarKharat94440/TODO/
+ [ https://github.com/rohitpawar0011/TODO/
    ```
 2. Install dependencies:
    ```sh
