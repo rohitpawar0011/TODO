@@ -5,7 +5,7 @@ This project is a full-stack task management application built using **React, Ty
 ## Deployment Links
 
 
-- **Backend URL:** (https://todo-eight-chi-86.vercel.app/)
+- **Backend URL:** (https://todo-rust-psi-72.vercel.app/)
 
 ## Features
 
